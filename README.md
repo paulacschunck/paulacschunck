@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @paulacschunck
 - 👀 I'm looking for <b> work as a font-end jr developer <b>
-- 🌱 I’m currently learning <b>Javascript<b>.
+- 🌱 I’m currently learning<b>HTML<b>,<b>CSS<b>and<b>Javascript<b>.
 - 💞️ I love dogs 🐶, game 🎮 , photo 📸 and astronomy 🌎⭐🪐
 - 📫 How to reach me: https://www.linkedin.com/in/paulaschunck and here in Github!
 <div align="center">
