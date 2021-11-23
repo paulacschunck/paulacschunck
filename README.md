@@ -2,7 +2,7 @@
 - 👀 I'm looking for <b> work as a font-end jr developer <b>
 - 🌱 I’m currently learning <b>HTML<b>, <b>CSS<b> and <b>Javascript<b>.
 - 💞️ I love dogs 🐶, game 🎮 , photo 📸 and astronomy 🌎⭐🪐
-- 📫 How to reach me: https://www.linkedin.com/in/paulaschunck and here in Github!
+- 📫 How to reach me: https://www.linkedin.com/in/paulaschunck
 <div align="center">
   <a href="https://github.com/paulacshunck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulacschunck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
