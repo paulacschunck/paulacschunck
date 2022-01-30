@@ -1,6 +1,10 @@
-- 👋 Hello, I’m @paulacschunck
+- 👋 Hello, I’m @paulacschunck, and I'am a front end student.
 - 👀 I'm looking for <b> work as a front-end jr developer <b>
 - 🌱 I’m currently learning <b>HTML<b>, <b>CSS<b> and <b>Javascript<b>.
+  
+  After a pause, I'm back!
+  
+  
 - 💞️ I love dogs 🐶, game 🎮 , photo 📸 and astronomy 🌎⭐🪐
 - 📫 How to reach me: https://www.linkedin.com/in/paulaschunck
 <div align="center">
