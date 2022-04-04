@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @paulacschunck, and I'am a front end student.
-- 👀 I'm looking for <b> work as a front-end jr developer <b>
+- 👀 I'm looking for <b> work as a front-end jr developer <b>.
 - 🌱 I’m currently learning <b>HTML<b>, <b>CSS<b>, <b>Javascript<b> and <b>Angular<b>.
   
   After a pause, I'm back!
