@@ -6,8 +6,8 @@
   
   
 - 💞️ I love dogs 🐶, game 🎮 , photo 📸 and astronomy 🌎⭐🪐
-- 📫 How to reach me: https://www.linkedin.com/in/paulaschunck <!--
-<div align="center">
+- 📫 How to reach me: https://www.linkedin.com/in/paulaschunck 
+<div align="center"><!--
   <a href="https://github.com/paulacshunck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulacschunck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacschunck&layout=compact&langs_count=7&theme=dracula"/>  
